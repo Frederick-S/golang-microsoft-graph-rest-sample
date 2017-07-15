@@ -1,4 +1,4 @@
-# golang-microsoft-graph-rest-sample
+# golang-microsoft-graph-rest-sample [![Build Status](https://travis-ci.org/Frederick-S/golang-microsoft-graph-rest-sample.svg?branch=master)](https://travis-ci.org/Frederick-S/golang-microsoft-graph-rest-sample) [![Go Report Card](https://goreportcard.com/badge/github.com/Frederick-S/golang-microsoft-graph-rest-sample)](https://goreportcard.com/report/github.com/Frederick-S/golang-microsoft-graph-rest-sample)
 Inspired by [active-directory-python-flask-graphapi-web-v2](https://github.com/Azure-Samples/active-directory-python-flask-graphapi-web-v2).
 
 ## Steps to Run
