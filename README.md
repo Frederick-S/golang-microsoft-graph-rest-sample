@@ -6,7 +6,7 @@ Inspired by [active-directory-python-flask-graphapi-web-v2](https://github.com/A
     - Navigate to the [App Registration Portal](https://identity.microsoft.com). 
     - Go to the the `My Apps` page, click `Add an App`, and name your app.  
     - Set a platform by clicking `Add Platform`, select `Web`, and add a Redirect URI of ```http://localhost:5000/login/authorized```.
-    - Click "Generate New Password' and record your Consumer Secret.  
+    - Click "Generate New Password" and record your Consumer Secret.  
 
 3. Clone the code. 
     ```
