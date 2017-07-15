@@ -1,0 +1,1 @@
+# golang-microsoft-graph-rest-sample
